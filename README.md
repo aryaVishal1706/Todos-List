@@ -3,15 +3,15 @@
 ## 🚀 Live Website
 🔗 **[View Live](https://aryavishal1706.github.io/Todos-List/)**
 
+## 📖 About
+Todos-List is a simple and interactive React-based To-Do List Application that helps users manage daily tasks efficiently. With this app, users can add, delete, and track their to-do items in an intuitive and responsive interface.
+
 ## 📸 Preview
 ### Home Page
-![Home Page](public/images/home.jpeg)
+![Home Page](public/home.jpeg)
 
 ### About Page
-![About Page](public/images/about.jpeg)
-
-## 📖 About
-A simple React-based **Todo List Application** that allows users to add, delete, and manage their tasks efficiently.
+![About Page](public/about.jpeg)
 
 ## 📂 Project Structure
 ```
