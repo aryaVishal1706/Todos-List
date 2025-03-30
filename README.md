@@ -8,10 +8,10 @@ Todos-List is a simple and interactive React-based To-Do List Application that h
 
 ## 📸 Preview
 ### Home Page
-![Home Page](public/home.jpeg)
+![Home Page](public/Home.jpeg)
 
 ### About Page
-![About Page](public/about.jpeg)
+![About Page](public/About.jpeg)
 
 ## 📂 Project Structure
 ```
